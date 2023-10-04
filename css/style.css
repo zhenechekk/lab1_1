@@ -1,13 +1,14 @@
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px; 
+    background: linear-gradient( rgb(255, 222, 252), 77%, rgb(250, 109, 130));
+    background-repeat: no-repeat;
+    height: auto;
 }
 
 .count-input {
 	width:10%;
 	display: inline;
 }
-
-
 
 .add-to-basket-block {
 	margin-top: 7px;
@@ -68,5 +69,10 @@ body {
     display: inline;
 }
 footer {
-    margin: 50px 0;
+    margin: 1%;
+}
+
+.row2 img {
+    text-align: center;
+    margin: 15px 15px 1px 15px;
 }

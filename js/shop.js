@@ -87,7 +87,7 @@ $(document).ready(function() {
 			<input readonly class="product0"></input>
 			<input readonly class="amount0"></input>
 			</div>`)
-			$('.product0').val("Product1");
+			$('.product0').val("ИСПРАВИТЬ");
 			$('.amount0').val(cart[i]);
 					break;
 
